@@ -8,4 +8,5 @@
  #musa calisti. begendi.
  #baska biri ekleme yapti .
  #musa cok calisti yine bugun..........
+ #sadece sen calismadin baskasi da yapti
 
