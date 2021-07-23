@@ -1,2 +1,0 @@
- #1 satir 
- #2 satir 
