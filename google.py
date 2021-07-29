@@ -1,3 +1,7 @@
+import builtins
+from onetwothree import array123
+
+
 height = []
 while True:
     num = input("Type 'ok' when you are done: ")
@@ -23,3 +27,7 @@ while l < r:
             areas += max_r - height[r]
         r -= 1
 print("Water-trapped area : ", areas)
+
+
+
+
