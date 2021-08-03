@@ -23,4 +23,3 @@ def negative_sum(chars):
 		else:
 			continue
 	return total
-	#return sum(list([int(x) for x in chars if '-' in x]))
