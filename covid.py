@@ -1,3 +1,7 @@
+from _typeshed import StrOrBytesPath
+from typing import MutableSequence
+
+
 age_text=input("age above 75= Y/N").lower()
 age=False
 immune=False
@@ -18,3 +22,4 @@ if age==True and immune==True and chronic==True:
     print("You are in risky group")
 else:
     print("You are not in risky group")
+
